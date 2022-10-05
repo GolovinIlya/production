@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-    "presets": ["@babel/preset-env"],
-=======
     "presets": ["@babel/preset-env", "@babel/preset-typescript"],
->>>>>>> bad9de3 (add jest)
     "plugins": [
         "i18next-extract"
     ]
