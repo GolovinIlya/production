@@ -5,8 +5,8 @@ import {
 } from "@reduxjs/toolkit";
 import { counterReducer } from "entities/Counter";
 import { userReducer } from "entities/User";
-import { createReducerManager } from "./reducerManager";
 import { StateSchema } from "./StateSchema";
+import { createReducerManager } from "./reducerManager";
 
 export function createReduxStore(
     initialState?: StateSchema,
