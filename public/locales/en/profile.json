@@ -1,6 +1,10 @@
 {
-    "Профиль": "Profile",
-    "Редактировать": "Edit",
     "Ваше имя": "Your name",
-    "Ваша фамилия": "Your lastname"
+    "Ваша фамилия": "Your lastname",
+    "Ваш возраст": "Your age",
+    "Город": "City",
+    "Введите имя пользователя": "Enter the user name",
+    "Введите ссылку на аватар": "Enter the link to the avatar",
+    "Укажите валюту": "Specify the currency",
+    "Укажите страну": "Specify the country"
 }

@@ -13,7 +13,6 @@ export const fetchProfileData = createAsyncThunk<
         const response = await extra.api.get<Profile>(
             "http://localhost:8000/profile"
         );
-
         return response.data;
     } catch (e) {
         console.log(e);

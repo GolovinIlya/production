@@ -1,5 +1,4 @@
 {
-    "Тестовый пример": "Test example",
     "Перевод": "Translate",
     "Главная страница": "Main page",
     "Язык": "Русский",
@@ -15,5 +14,9 @@
     "Выйти": "Log Out",
     "Введите пароль": "Enter password",
     "Форма авторизации": "Authorization form",
-    "Вы ввели неверный логин или пароль": "You entered an incorrect username or password"
+    "Вы ввели неверный логин или пароль": "You entered an incorrect username or password",
+    "Профиль": "Profile",
+    "Редактировать": "Edit",
+    "Отменить": "Cancel",
+    "Сохранить": "Save"
 }
